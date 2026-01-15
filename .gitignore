@@ -1,0 +1,11 @@
+# env
+.env
+
+# chroma
+income_tax_coll
+
+# mac
+.DS_Store
+
+# python
+__pycache__
